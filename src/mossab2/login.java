@@ -32,7 +32,7 @@ public class login extends javax.swing.JFrame {
 
         setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
         setBackground(new Color(51, 51, 255));
-        this.setLocationRelativeTo(null);
+        setLocationByPlatform(true);
         setResizable(false);
 
         jPanel1.setBackground(new Color(153, 153, 255));
