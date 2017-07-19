@@ -15,7 +15,6 @@ import javax.swing.WindowConstants;
 public class login extends javax.swing.JFrame {
 
     public login() {
-        System.out.println("hhh");
         initComponents();
         this.setLocationRelativeTo(null);
     }
