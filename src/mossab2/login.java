@@ -21,6 +21,7 @@ public class login extends javax.swing.JFrame {
     }
     
     
+    kjqk
     
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
