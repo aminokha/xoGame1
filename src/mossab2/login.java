@@ -15,10 +15,10 @@ import javax.swing.WindowConstants;
 public class login extends javax.swing.JFrame {
 
     public login() {
+        System.out.println("hhh");
         initComponents();
         this.setLocationRelativeTo(null);
     }
-
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
     private void initComponents() {
